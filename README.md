@@ -1,4 +1,4 @@
-# 司法/行政文书程序与实体异常深度检测器
+#  司法/行政文书程序与实体异常深度检测器
 # Judicial & Administrative Document Anomaly Detector
 
 [![License： MIT]（https：//img.shields.io/badge/License-MIT-yellow.svg）]（https：//opensource.org/licenses/MIT）
